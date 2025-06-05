@@ -20,7 +20,7 @@ O projeto visa aplicar os conceitos fundamentais de estrutura de dados em um cen
 
 ## ⚙️ Funcionalidades
 
-* 🔐 **Login e Logout de Usuários**
+* 🔐 **Login e Logout de Usuários** <br>
   Permite o acesso seguro ao sistema com controle de sessões.
 
 * 🛍️ **Listagem de Produtos**
