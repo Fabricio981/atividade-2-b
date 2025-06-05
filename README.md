@@ -1,4 +1,4 @@
-# E-Commerce Marketplace -- H Eventos
+# E-Commerce Marketplace — H Eventos
 ---
 Esse projeto é um código simples utilizado para simular uma empresa de e-commerce de ingressos para eventos. Os códigos utilizados foram aprendidos na **Unidade Curricular de Estrutura de Dados**.
 Entre as funções desse código, serão encontradas as seguintes:
