@@ -8,4 +8,4 @@ Entre as funções desse código, serão encontradas as seguintes:
 - Checkout com diferentes métodos de pagamento;
 - Visualização de dados do usuário.
 
-O sistema é integrado no sistema **E-commerce Marketplace**, utilizado por sites como AirBnB, Booking.com, e mais. O sistema utiliza as estruturas de dados **vetor, lista, pilha, fila e matriz**, respectivamente
+O sistema é integrado no sistema **E-commerce Marketplace**, utilizado por sites como AirBnB, Booking.com, e mais. O sistema utiliza as estruturas de dados **vetor, lista, pilha, fila e matriz**, respectivamente.
