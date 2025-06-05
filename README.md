@@ -23,16 +23,16 @@ O projeto visa aplicar os conceitos fundamentais de estrutura de dados em um cen
 * 🔐 **Login e Logout de Usuários** <br>
   Permite o acesso seguro ao sistema com controle de sessões.
 
-* 🛍️ **Listagem de Produtos**
+* 🛍️ **Listagem de Produtos** <br>
   Exibe os produtos disponíveis com nome, descrição e valores.
 
-* 🛒 **Carrinho de Compras**
+* 🛒 **Carrinho de Compras** <br>
   Adição e remoção de produtos com cálculo automático do total.
 
-* 💳 **Checkout com Métodos de Pagamento**
+* 💳 **Checkout com Métodos de Pagamento** <br>
   Simulação de pagamento com múltiplas opções (ex: cartão, boleto, pix).
 
-* 👤 **Visualização de Dados do Usuário**
+* 👤 **Visualização de Dados do Usuário** <br>
   Mostra informações da conta, histórico de compras e status de pedidos.
 
 ## 🏗️ Tecnologias e Conceitos
