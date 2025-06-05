@@ -49,7 +49,3 @@ Desenvolvido por Andressa, Giovanna F, Fabrício e Letícia, como parte do curso
 
 **📌 Observação:** Este sistema tem fins educacionais, com foco na prática e compreensão de estruturas de dados. Não deve ser utilizado em ambientes de produção sem as devidas adaptações.
 
----
-
-Se quiser, posso criar também os arquivos iniciais ou uma estrutura básica dos scripts Python. Deseja isso?
-
